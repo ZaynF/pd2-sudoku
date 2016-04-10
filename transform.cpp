@@ -1,7 +1,7 @@
 #include<iostream>
 #include<cstdlib>
 #include<ctime>
-#include"sudoku.h"
+#include"Sudoku.h"
 #define Num 9;
 using namespace std;
 
